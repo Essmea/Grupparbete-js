@@ -1,0 +1,32 @@
+
+@media screen and (max-width: 1300px ){
+    body {
+        background-size: cover; /*funkar inte*/
+    }
+    .form-label {
+        font-size: 1.3rem;
+    }
+    button {
+        width: auto;
+    }
+}
+    
+
+
+@media screen and (max-width: 620px ){
+    body {
+        background-color: rgb(12, 20, 37);
+    }
+    .wrap {
+        background-color: transparent;
+        box-shadow: none;
+    }
+    
+    .form-label {
+        font-size: 1rem;
+    }
+    button {
+        width: auto;
+    }
+}
+    
